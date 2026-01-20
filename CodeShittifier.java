@@ -1,3 +1,5 @@
+package com.bankalfalah.alfapay.utils;
+
 import java.io.*;
 import java.nio.file.*;
 import java.util.*;
@@ -7,7 +9,7 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 
 /**
- * CodeShittifier - Making your code shittier, one file at a time!
+ * CodeShittifier - Making your code shittier.
  * 
  * A satirical code formatter that does the exact opposite of Prettier/ktfmt.
  * Embraces chaos, messiness, and confusion in your Java/Kotlin codebase.
@@ -15,7 +17,7 @@ import java.time.format.DateTimeFormatter;
  * WARNING: This is a parody tool. Do NOT use on production code!
  * Always commit your code before running this tool.
  * 
- * @author The Hero We Need
+ * @author Sarmad
  * @version 1.0.0 (Chaos Edition)
  */
 public class CodeShittifier {
@@ -71,6 +73,9 @@ public class CodeShittifier {
             System.err.println("Error: " + e.getMessage());
             e.printStackTrace();
             System.exit(1);
+        } catch (Exception e) {
+            System.err.println("Error:  " + e.getMessage());
+            e.printStackTrace();
         }
     }
     
@@ -493,4 +498,3 @@ private int findSafeBreakPoint(String line) {
             """);
     }
 }
-
